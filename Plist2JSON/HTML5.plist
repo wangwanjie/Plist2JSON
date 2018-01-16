@@ -1,0 +1,2232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Chinese</key>
+		<string>三卡吹牛</string>
+		<key>Code</key>
+		<string>ash3brg</string>
+		<key>English</key>
+		<string>3 Card Brag</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Table Games</string>
+		<key>tw</key>
+		<string>三卡吹牛</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>真人7席百家乐</string>
+		<key>Code</key>
+		<string>7bal</string>
+		<key>English</key>
+		<string>7 Seat Baccarat Live</string>
+		<key>Group</key>
+		<string>Live Baccarat Games</string>
+		<key>Type</key>
+		<string>Live Games</string>
+		<key>tw</key>
+		<string>真人7席百家樂</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>狂欢夜</string>
+		<key>Code</key>
+		<string>hb</string>
+		<key>English</key>
+		<string>A Night Out</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>狂歡夜</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>梦游仙境豪华版</string>
+		<key>Code</key>
+		<string>ashadv</string>
+		<key>English</key>
+		<string>Adventures in Wonderland Deluxe</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>夢遊仙境豪華版</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代</string>
+		<key>Code</key>
+		<string>aogs</string>
+		<key>English</key>
+		<string>Age Of Gods</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>眾神時代</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代：命运姐妹</string>
+		<key>Code</key>
+		<string>ftsis</string>
+		<key>English</key>
+		<string>Age of the Gods : Fate Sisters</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>眾神時代：命運姐妹</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代：狂暴4</string>
+		<key>Code</key>
+		<string>furf</string>
+		<key>English</key>
+		<string>Age of the Gods : Furious Four</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>眾神時代：狂暴4</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代：智慧女神</string>
+		<key>Code</key>
+		<string>athn</string>
+		<key>English</key>
+		<string>Age of the Gods : Goddess of Wisdom</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>眾神時代：智慧女神</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代：奥林匹斯之王</string>
+		<key>Code</key>
+		<string>kolymp</string>
+		<key>English</key>
+		<string>Age of the Gods : King of Olympus</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>眾神時代：奧林匹斯之王</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代：奥林匹斯王子</string>
+		<key>Code</key>
+		<string>hrcls</string>
+		<key>English</key>
+		<string>Age of the Gods : Prince of Olympus</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>眾神時代：奧林匹斯王子</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>众神时代轮盘</string>
+		<key>Code</key>
+		<string>aogro</string>
+		<key>English</key>
+		<string>Age of the Gods Roulette</string>
+		<key>Group</key>
+		<string>Roulette Games</string>
+		<key>Type</key>
+		<string>Table Games</string>
+		<key>tw</key>
+		<string>眾神時代輪盤</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>野生亚马逊</string>
+		<key>Code</key>
+		<string>ashamw</string>
+		<key>English</key>
+		<string>Amazon Wild</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>野生亞馬遜</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>弓箭手</string>
+		<key>Code</key>
+		<string>arc</string>
+		<key>English</key>
+		<string>Archer</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>弓箭手</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>北极宝藏</string>
+		<key>Code</key>
+		<string>art</string>
+		<key>English</key>
+		<string>Arctic Treasure</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>北極寶藏</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>亚特兰蒂斯女王</string>
+		<key>Code</key>
+		<string>gtsatq</string>
+		<key>English</key>
+		<string>Atlantis Queen</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>亞特蘭蒂斯女王</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>百家乐</string>
+		<key>Code</key>
+		<string>ba</string>
+		<key>English</key>
+		<string>Baccarat</string>
+		<key>Group</key>
+		<string>Baccarat Games</string>
+		<key>Type</key>
+		<string>Card Games</string>
+		<key>tw</key>
+		<string>百家樂</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>真人百家乐</string>
+		<key>Code</key>
+		<string>bal</string>
+		<key>English</key>
+		<string>Baccarat Live</string>
+		<key>Group</key>
+		<string>Live Baccarat Games</string>
+		<key>Type</key>
+		<string>Live Games</string>
+		<key>tw</key>
+		<string>真人百家樂</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>白狮</string>
+		<key>Code</key>
+		<string>bs</string>
+		<key>English</key>
+		<string>Bai Shi</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>白獅</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>海滨嘉年华</string>
+		<key>Code</key>
+		<string>bl</string>
+		<key>English</key>
+		<string>Beach Life</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>海濱嘉年華</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>百慕大三角</string>
+		<key>Code</key>
+		<string>bt</string>
+		<key>English</key>
+		<string>Bermuda Triangle</string>
+		<key>Group</key>
+		<string>Classic Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>百慕大三角</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>21点</string>
+		<key>Code</key>
+		<string>mobbj</string>
+		<key>English</key>
+		<string>Blackjack</string>
+		<key>Group</key>
+		<string>Blackjack Games</string>
+		<key>Type</key>
+		<string>Card Games</string>
+		<key>tw</key>
+		<string>21點</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>真人21点</string>
+		<key>Code</key>
+		<string>bjl</string>
+		<key>English</key>
+		<string>Black Jack Live</string>
+		<key>Group</key>
+		<string>Live Blackjack Games</string>
+		<key>Type</key>
+		<string>Live Games</string>
+		<key>tw</key>
+		<string>真人21點</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>熊之舞</string>
+		<key>Code</key>
+		<string>bob</string>
+		<key>English</key>
+		<string>Bonus Bears</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>熊之舞</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>魔豆赏金</string>
+		<key>Code</key>
+		<string>ashbob</string>
+		<key>English</key>
+		<string>Bounty of the Beanstalk</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>魔豆賞金</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>犎牛闪电突击</string>
+		<key>Code</key>
+		<string>bfb</string>
+		<key>English</key>
+		<string>Buffalo Blitz</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>犎牛閃電突擊</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>船长的宝藏</string>
+		<key>Code</key>
+		<string>ct</string>
+		<key>English</key>
+		<string>Captain's Treasure</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>船長的寶藏</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>娱乐场同花顺</string>
+		<key>Code</key>
+		<string>cheaa</string>
+		<key>English</key>
+		<string>Casino Hold 'Em</string>
+		<key>Group</key>
+		<string>Poker Games</string>
+		<key>Type</key>
+		<string>Card Games</string>
+		<key>tw</key>
+		<string>娛樂場同花順</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>猫王战赌城</string>
+		<key>Code</key>
+		<string>ctiv</string>
+		<key>English</key>
+		<string>Cat In Vegas</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>貓王戰賭城</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>猫后</string>
+		<key>Code</key>
+		<string>catqc</string>
+		<key>English</key>
+		<string>Cat Queen</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>貓後</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>超级 888</string>
+		<key>Code</key>
+		<string>chao</string>
+		<key>English</key>
+		<string>Chaoji 888</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>超級 888</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>狂野樱桃</string>
+		<key>Code</key>
+		<string>chl</string>
+		<key>English</key>
+		<string>Cherry Love</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>狂野櫻桃</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>宝箱满满</string>
+		<key>Code</key>
+		<string>ashcpl</string>
+		<key>English</key>
+		<string>Chests of Plenty</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>寶箱滿滿</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>中式厨房</string>
+		<key>Code</key>
+		<string>cm</string>
+		<key>English</key>
+		<string>Chinese Kitchen</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>中式廚房</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>警察和土匪</string>
+		<key>Code</key>
+		<string>gtscnb</string>
+		<key>English</key>
+		<string>Cops N' Bandits</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>警察和土匪</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>牛仔和外星人</string>
+		<key>Code</key>
+		<string>gtscbl</string>
+		<key>English</key>
+		<string>Cowboys &amp; Aliens</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>牛仔和外星人</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>疯狂之七</string>
+		<key>Code</key>
+		<string>c7</string>
+		<key>English</key>
+		<string>Crazy 7</string>
+		<key>Group</key>
+		<string>Classic Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>瘋狂之七</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>无畏的戴夫</string>
+		<key>Code</key>
+		<string>gtsdrdv </string>
+		<key>English</key>
+		<string>Daring Dave &amp; the Eye of Ra</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>無畏的戴夫</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>沙漠财宝</string>
+		<key>Code</key>
+		<string>mobdt</string>
+		<key>English</key>
+		<string>Desert Treasure</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>沙漠財寶</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>海豚之梦</string>
+		<key>Code</key>
+		<string>dnr</string>
+		<key>English</key>
+		<string>Dolphin Reef</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>海豚之夢</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>情圣博士</string>
+		<key>Code</key>
+		<string>dlm</string>
+		<key>English</key>
+		<string>Dr Love More</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>情聖博士</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>龙之国度</string>
+		<key>Code</key>
+		<string>gtsdgk</string>
+		<key>English</key>
+		<string>Dragon Kingdom</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>龍之國度</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>复活节惊喜</string>
+		<key>Code</key>
+		<string>eas</string>
+		<key>English</key>
+		<string>Easter Surprise</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>復活節驚喜</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>埃斯梅拉达</string>
+		<key>Code</key>
+		<string>esm</string>
+		<key>English</key>
+		<string>Esmeralda</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>埃斯梅拉達</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>欧式轮盘</string>
+		<key>Code</key>
+		<string>mobro</string>
+		<key>English</key>
+		<string>European Roulette</string>
+		<key>Group</key>
+		<string>Roulette Games</string>
+		<key>Type</key>
+		<string>Table Games</string>
+		<key>tw</key>
+		<string>歐式輪盤</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>欢乐积宝彩池</string>
+		<key>Code</key>
+		<string>evj</string>
+		<key>English</key>
+		<string>Everybody's Jackpot</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>歡樂積寶彩池</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>魔镜与公主</string>
+		<key>Code</key>
+		<string>ashfta</string>
+		<key>English</key>
+		<string>Fairest of Them All</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>魔鏡與公主</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>翡翠公主</string>
+		<key>Code</key>
+		<string>fcgz</string>
+		<key>English</key>
+		<string>Fei Cui Gong Zhu</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>翡翠公主</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>飞龙在天</string>
+		<key>Code</key>
+		<string>gtsflzt</string>
+		<key>English</key>
+		<string>Fei Long Zai Tian</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>飛龍在天</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>疯狂麻将</string>
+		<key>Code</key>
+		<string>fkmj</string>
+		<key>English</key>
+		<string>Feng Kuang Ma Jiang</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>瘋狂麻將</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>五虎将</string>
+		<key>Code</key>
+		<string>ftg</string>
+		<key>English</key>
+		<string>Five Tiger Generals</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>五虎將</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>青春之泉</string>
+		<key>Code</key>
+		<string>foy</string>
+		<key>English</key>
+		<string>Fountain of Youth</string>
+		<key>Group</key>
+		<string>Classic Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>青春之泉</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>足球嘉年华</string>
+		<key>Code</key>
+		<string>gtsfc</string>
+		<key>English</key>
+		<string>Football Carnival</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>足球嘉年華</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>终极足球</string>
+		<key>Code</key>
+		<string>fbr</string>
+		<key>English</key>
+		<string>Football Rules</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>終極足球</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>惊异之林</string>
+		<key>Code</key>
+		<string>fow</string>
+		<key>English</key>
+		<string>Forest of Wonders</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>驚異之林</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>五福海盗</string>
+		<key>Code</key>
+		<string>frtf</string>
+		<key>English</key>
+		<string>Fortunate 5</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>五福海盜</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>幸运日 </string>
+		<key>Code</key>
+		<string>fday</string>
+		<key>English</key>
+		<string>Fortune Day</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>幸運日 </string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>幸运狮子</string>
+		<key>Code</key>
+		<string>frtln</string>
+		<key>English</key>
+		<string>Fortune Lions</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>幸運獅子</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>狐媚宝藏</string>
+		<key>Code</key>
+		<string>fxf</string>
+		<key>English</key>
+		<string>Fortunes of the Fox</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>狐媚寶藏</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>青春之泉</string>
+		<key>Code</key>
+		<string>foy</string>
+		<key>English</key>
+		<string>Fountain of Youth</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>青春之泉</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>德托里传奇</string>
+		<key>Code</key>
+		<string>fdt</string>
+		<key>English</key>
+		<string>Frankie Dettori's Magic Seven</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>德托裏傳奇</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>德托里传奇积宝游戏</string>
+		<key>Code</key>
+		<string>fdtjg</string>
+		<key>English</key>
+		<string>Frankie Dettori's Magic Seven Jackpot</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>德托裏傳奇積寶遊戲</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>水果狂热</string>
+		<key>Code</key>
+		<string>fmn</string>
+		<key>English</key>
+		<string>Fruit Mania</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>水果狂熱</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>圆月财富</string>
+		<key>Code</key>
+		<string>ashfmf</string>
+		<key>English</key>
+		<string>Full Moon Fortunes</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>圓月財富</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>酷炫水果农场</string>
+		<key>Code</key>
+		<string>fff</string>
+		<key>English</key>
+		<string>Funky Fruits Farm</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>酷炫水果農場</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>酷炫水果</string>
+		<key>Code</key>
+		<string>fnfrj</string>
+		<key>English</key>
+		<string>Funky Fruits</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>酷炫水果</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>古怪猴子</string>
+		<key>Code</key>
+		<string>fm</string>
+		<key>English</key>
+		<string>Funky Monkey</string>
+		<key>Group</key>
+		<string>Classic Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>古怪猴子</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>艺伎故事 </string>
+		<key>Code</key>
+		<string>ges</string>
+		<key>English</key>
+		<string>Geisha Story</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>藝伎故事 </string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>角斗士积宝</string>
+		<key>Code</key>
+		<string>glrj</string>
+		<key>English</key>
+		<string>Gladiator Jackpot</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>角鬥士積寶</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>宝石女王</string>
+		<key>Code</key>
+		<string>gemq</string>
+		<key>English</key>
+		<string>Gem Queen</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>寶石女王</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>金色召集</string>
+		<key>Code</key>
+		<string>grel</string>
+		<key>English</key>
+		<string>Gold Rally</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>金色召集</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>黄金体育竞技场</string>
+		<key>Code</key>
+		<string>glg</string>
+		<key>English</key>
+		<string>Golden Games</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>黃金體育競技場</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>黄金之旅</string>
+		<key>Code</key>
+		<string>gos</string>
+		<key>English</key>
+		<string>Golden Tour</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>黃金之旅</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>海底探宝</string>
+		<key>Code</key>
+		<string>bib</string>
+		<key>English</key>
+		<string>Great Blue</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>海底探寶</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>最强奥德赛</string>
+		<key>Code</key>
+		<string>gro</string>
+		<key>English</key>
+		<string>Greatest Odyssey</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>最強奧德賽</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>万圣节宝藏</string>
+		<key>Code</key>
+		<string>hlf</string>
+		<key>English</key>
+		<string>Halloween Fortune</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>萬聖節寶藏</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>万圣节宝藏 2</string>
+		<key>Code</key>
+		<string>hlf2</string>
+		<key>English</key>
+		<string>Halloween Fortune 2</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>萬聖節寶藏 2</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>鬼宅</string>
+		<key>Code</key>
+		<string>hh</string>
+		<key>English</key>
+		<string>Haunted House</string>
+		<key>Group</key>
+		<string>Classic Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>鬼宅</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>丛林之心</string>
+		<key>Code</key>
+		<string>ashhotj</string>
+		<key>English</key>
+		<string>Heart of the Jungle</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>叢林之心</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>武则天</string>
+		<key>Code</key>
+		<string>heavru</string>
+		<key>English</key>
+		<string>Heavenly Ruler</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>武則天</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>高速公路之王</string>
+		<key>Code</key>
+		<string>hk</string>
+		<key>English</key>
+		<string>Highway Kings</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>高速公路之王</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>炙热宝石</string>
+		<key>Code</key>
+		<string>gts50</string>
+		<key>English</key>
+		<string>Hot Gems</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>炙熱寶石</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>火热KTV</string>
+		<key>Code</key>
+		<string>hotktv</string>
+		<key>English</key>
+		<string>Hot KTV</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>火熱KTV</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>印加帝国头奖</string>
+		<key>Code</key>
+		<string>aztec</string>
+		<key>English</key>
+		<string>Inca Jackpot</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>印加帝國頭獎</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>浮冰流</string>
+		<key>Code</key>
+		<string>ir</string>
+		<key>English</key>
+		<string>Ice run</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>浮冰流</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>幸运爱尔兰</string>
+		<key>Code</key>
+		<string>irl</string>
+		<key>English</key>
+		<string>Irish Luck</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>幸運愛爾蘭</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>奖金巨人</string>
+		<key>Code</key>
+		<string>jpgt</string>
+		<key>English</key>
+		<string>Jackpot Giant</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>獎金巨人</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>玉皇大帝</string>
+		<key>Code</key>
+		<string>gtsje</string>
+		<key>English</key>
+		<string>Jade Emperor</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>玉皇大帝</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>吉祥 8</string>
+		<key>Code</key>
+		<string>gtsjxb</string>
+		<key>English</key>
+		<string>Ji Xiang 8</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>吉祥 8</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>金钱蛙</string>
+		<key>Code</key>
+		<string>jqw</string>
+		<key>English</key>
+		<string>Jin Qian Wa</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>金錢蛙</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>约翰韦恩</string>
+		<key>Code</key>
+		<string>gtsjhw</string>
+		<key>English</key>
+		<string>John Wayne</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>約翰韋恩</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>无敌金刚</string>
+		<key>Code</key>
+		<string>kkg</string>
+		<key>English</key>
+		<string>Kong The Eighth Wonder of The World</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>無敵金剛</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>遍地黄金</string>
+		<key>Code</key>
+		<string>lndg</string>
+		<key>English</key>
+		<string>Land of Gold</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>遍地黃金</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>烈焰钻石</string>
+		<key>Code</key>
+		<string>ght_a</string>
+		<key>English</key>
+		<string>Lie Yan Zuan Shi</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machine</string>
+		<key>tw</key>
+		<string>烈焰鉆石</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>六福兽</string>
+		<key>Code</key>
+		<string>kfp</string>
+		<key>English</key>
+		<string>Liu Fu Shou</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>六福獸</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>真人法式轮盘</string>
+		<key>Code</key>
+		<string>rofl</string>
+		<key>English</key>
+		<string>Live French Roulette</string>
+		<key>Group</key>
+		<string>Live Roulette Games</string>
+		<key>Type</key>
+		<string>Live Games</string>
+		<key>tw</key>
+		<string>真人法式輪盤</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>龙龙龙</string>
+		<key>Code</key>
+		<string>longlong</string>
+		<key>English</key>
+		<string>Long Long Long</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>龍龍龍</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>疯狂乐透</string>
+		<key>Code</key>
+		<string>lm</string>
+		<key>English</key>
+		<string>Lotto Madness</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>瘋狂樂透</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>魔力老虎机</string>
+		<key>Code</key>
+		<string>mgstk</string>
+		<key>English</key>
+		<string>Magical Stacks</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>魔力老虎機</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>玛丽莲梦露</string>
+		<key>Code</key>
+		<string>gtsmrln</string>
+		<key>English</key>
+		<string>Marilyn Monroe</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>瑪麗蓮夢露</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>幸运女士</string>
+		<key>Code</key>
+		<string>mfrt</string>
+		<key>English</key>
+		<string>Miss Fortune</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>幸運女士</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>蒙提派森之万世魔星</string>
+		<key>Code</key>
+		<string>ashlob</string>
+		<key>English</key>
+		<string>Monty Python's Life of Brian</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>蒙提派森之萬世魔星</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>返利先生</string>
+		<key>Code</key>
+		<string>mrcb</string>
+		<key>English</key>
+		<string>Mr. Cashback</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>返利先生</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>海王星王国</string>
+		<key>Code</key>
+		<string>nk</string>
+		<key>English</key>
+		<string>Neptunes Kingdom</string>
+		<key>Group</key>
+		<string>Classic Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>海王星王國</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>年年有余</string>
+		<key>Code</key>
+		<string>nian</string>
+		<key>English</key>
+		<string>Nian Nian You Yu</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>年年有余</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>月亮下的黑豹</string>
+		<key>Code</key>
+		<string>pmn</string>
+		<key>English</key>
+		<string>Panther Moon</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>月亮下的黑豹</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>企鹅度假</string>
+		<key>Code</key>
+		<string>pgv</string>
+		<key>English</key>
+		<string>Penguin Vacation</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>企鵝度假</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>多幅完美21点</string>
+		<key>Code</key>
+		<string>bjp</string>
+		<key>English</key>
+		<string>Perfect Blackjack</string>
+		<key>Group</key>
+		<string>Card Games</string>
+		<key>Type</key>
+		<string>Card Games</string>
+		<key>tw</key>
+		<string>多幅完美21點</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>粉红豹</string>
+		<key>Code</key>
+		<string>pnp</string>
+		<key>English</key>
+		<string>Pink Panther</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>粉紅豹</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>法老王的秘密</string>
+		<key>Code</key>
+		<string>pst</string>
+		<key>English</key>
+		<string>Pharaoh's Secrets</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>法老王的秘密</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>三只小猪与大灰狼</string>
+		<key>Code</key>
+		<string>paw</string>
+		<key>English</key>
+		<string>Piggies and the Wolf</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>三只小豬與大灰狼</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>充裕财富</string>
+		<key>Code</key>
+		<string>gtspor</string>
+		<key>English</key>
+		<string>Plenty O'Fortune</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>充裕財富</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>奖金美式轮盘</string>
+		<key>Code</key>
+		<string>rodz_g</string>
+		<key>English</key>
+		<string>Premium American Roulette</string>
+		<key>Group</key>
+		<string>Roulette Games</string>
+		<key>Type</key>
+		<string>Table Games</string>
+		<key>tw</key>
+		<string>獎金美式輪盤</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>奖金欧式轮盘</string>
+		<key>Code</key>
+		<string>ro_g</string>
+		<key>English</key>
+		<string>Premium European Roulette</string>
+		<key>Group</key>
+		<string>Roulette Games</string>
+		<key>Type</key>
+		<string>Table Games</string>
+		<key>tw</key>
+		<string>獎金歐式輪盤</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>紫色狂热</string>
+		<key>Code</key>
+		<string>phot</string>
+		<key>English</key>
+		<string>Purple Hot</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>紫色狂熱</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>权杖女王</string>
+		<key>Code</key>
+		<string>qnw</string>
+		<key>English</key>
+		<string>Queen of Wands</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>權杖女王</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>日日进财</string>
+		<key>Code</key>
+		<string>ririjc</string>
+		<key>English</key>
+		<string>Ri Ri Jin Cai</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>日日進財</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>日日生财</string>
+		<key>Code</key>
+		<string>ririshc</string>
+		<key>English</key>
+		<string>Ri Ri Sheng Cai</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>日日生財</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>洛奇</string>
+		<key>Code</key>
+		<string>rky</string>
+		<key>English</key>
+		<string>Rocky</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>洛奇</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>罗马荣光</string>
+		<key>Code</key>
+		<string>rng2</string>
+		<key>English</key>
+		<string>Rome and Glory</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>羅馬榮光</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>真人轮盘</string>
+		<key>Code</key>
+		<string>rol</string>
+		<key>English</key>
+		<string>Roulette Live</string>
+		<key>Group</key>
+		<string>Live Roulette Games</string>
+		<key>Type</key>
+		<string>Live Games</string>
+		<key>tw</key>
+		<string>真人輪盤</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>野生狩猎</string>
+		<key>Code</key>
+		<string>sfh</string>
+		<key>English</key>
+		<string>Safari Heat</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>野生狩獵</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>桑巴之舞</string>
+		<key>Code</key>
+		<string>gtssmbr</string>
+		<key>English</key>
+		<string>Samba Brazil</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>桑巴之舞</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>圣诞老人奇袭</string>
+		<key>Code</key>
+		<string>ssp</string>
+		<key>English</key>
+		<string>Santa Surprise</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>聖誕老人奇襲</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>亚马逊之谜</string>
+		<key>Code</key>
+		<string>samz</string>
+		<key>English</key>
+		<string>Secrets of the Amazon</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>亞馬遜之謎</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>神秘夏洛克</string>
+		<key>Code</key>
+		<string>shmst</string>
+		<key>English</key>
+		<string>Sherlock Mystery</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>神秘夏洛克</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>四象</string>
+		<key>Code</key>
+		<string>sx</string>
+		<key>English</key>
+		<string>Si Xiang</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>四象</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>忍者风云</string>
+		<key>Code</key>
+		<string>sis</string>
+		<key>English</key>
+		<string>Silent Samurai</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>忍者風雲</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>银弹</string>
+		<key>Code</key>
+		<string>sib</string>
+		<key>English</key>
+		<string>Silver Bullet</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>銀彈</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>辛巴达金航记</string>
+		<key>Code</key>
+		<string>ashsbd</string>
+		<key>English</key>
+		<string>Sinbad's Golden Voyage</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>辛巴達金航記</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>欧莱里之黄金大田</string>
+		<key>Code</key>
+		<string>srcg</string>
+		<key>English</key>
+		<string>Spud O'Reilly's Crops of Gold</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>歐萊裏之黃金大田</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>幸运直击</string>
+		<key>Code</key>
+		<string>sol</string>
+		<key>English</key>
+		<string>Streak of Luck</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>幸運直擊</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>孙悟空</string>
+		<key>Code</key>
+		<string>gtsswk</string>
+		<key>English</key>
+		<string>Sun Wukong</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>孫悟空</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>超级狮子</string>
+		<key>Code</key>
+		<string>slion</string>
+		<key>English</key>
+		<string>Super Lion</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>超級獅子</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>甜蜜派对</string>
+		<key>Code</key>
+		<string>cnpr</string>
+		<key>English</key>
+		<string>Sweet Party</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>甜蜜派對</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>泰国梦天堂</string>
+		<key>Code</key>
+		<string>tpd2</string>
+		<key>English</key>
+		<string>Thai Paradise</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>泰國夢天堂</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>泰国佛寺</string>
+		<key>Code</key>
+		<string>tht</string>
+		<key>English</key>
+		<string>Thai Temple</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>泰國佛寺</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>海上寻宝</string>
+		<key>Code</key>
+		<string>dcv</string>
+		<key>English</key>
+		<string>The Discovery</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>海上尋寶</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>水晶鞋</string>
+		<key>Code</key>
+		<string>ashglss</string>
+		<key>English</key>
+		<string>The Glass Slipper</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>水晶鞋</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>大明帝国</string>
+		<key>Code</key>
+		<string>gtsgme</string>
+		<key>English</key>
+		<string>The Great Ming Empire</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>大明帝國</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>恋爱之船</string>
+		<key>Code</key>
+		<string>lvb</string>
+		<key>English</key>
+		<string>The Love Boat</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>戀愛之船</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>唐吉诃德</string>
+		<key>Code</key>
+		<string>donq</string>
+		<key>English</key>
+		<string>The Riches of Don Quixote</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>唐吉訶德</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>三个火枪手</string>
+		<key>Code</key>
+		<string>tmqd</string>
+		<key>English</key>
+		<string>The Three Musketeers and The Queen's Diamond™</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>三個火槍手</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>三门问题</string>
+		<key>Code</key>
+		<string>ashtmd</string>
+		<key>English</key>
+		<string>Time for a Deal</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>三門問題</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>捍卫战士</string>
+		<key>Code</key>
+		<string>topg</string>
+		<key>English</key>
+		<string>Top Gun</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>捍衛戰士</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>顶级王牌名人游戏</string>
+		<key>Code</key>
+		<string>ttc</string>
+		<key>English</key>
+		<string>Top Trump Celebs</string>
+		<key>Group</key>
+		<string>Slot Machines</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>頂級王牌名人遊戲</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>三倍猴子</string>
+		<key>Code</key>
+		<string>trpmnk</string>
+		<key>English</key>
+		<string>Triple Monkey</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>三倍猴子</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>开心假期</string>
+		<key>Code</key>
+		<string>er</string>
+		<key>English</key>
+		<string>Vacation Station</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>開心假期</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>开心假期豪華版</string>
+		<key>Code</key>
+		<string>vcstd</string>
+		<key>English</key>
+		<string>Vacation Station Deluxe</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>開心假期豪華版</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>维京狂热</string>
+		<key>Code</key>
+		<string>gts52</string>
+		<key>English</key>
+		<string>Vikingmania</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>維京狂熱</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>白狮王</string>
+		<key>Code</key>
+		<string>whk</string>
+		<key>English</key>
+		<string>White King</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>白獅王</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>野生动物大世界</string>
+		<key>Code</key>
+		<string>gtswg</string>
+		<key>English</key>
+		<string>Wild Gambler</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>野生動物大世界</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>野生世界：北极大冒险</string>
+		<key>Code</key>
+		<string>ashwgaa</string>
+		<key>English</key>
+		<string>Wild Gambler: Arctic Adventure</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>野生世界：北極大冒險</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>狂野精灵</string>
+		<key>Code</key>
+		<string>wis</string>
+		<key>English</key>
+		<string>Wild Spirit</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>狂野精靈</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>纯金之翼</string>
+		<key>Code</key>
+		<string>gtswng</string>
+		<key>English</key>
+		<string>Wings of Gold</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>純金之翼</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>舞龙</string>
+		<key>Code</key>
+		<string>wlg</string>
+		<key>English</key>
+		<string>Wu Long</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>舞龍</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>五路财神</string>
+		<key>Code</key>
+		<string>wlcsh</string>
+		<key>English</key>
+		<string>Wu Lu Cai Shen</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>五路財神</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>招财进宝</string>
+		<key>Code</key>
+		<string>zcjb</string>
+		<key>English</key>
+		<string>Zhao Cai Jin Bao</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>招財進寶</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>招财进宝积宝财池</string>
+		<key>Code</key>
+		<string>zcjbjp</string>
+		<key>English</key>
+		<string>Zhao Cai Jing Bao Jackpot</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Progressive Slot Machines</string>
+		<key>tw</key>
+		<string>招財進寶積寶財池</string>
+	</dict>
+	<dict>
+		<key>Chinese</key>
+		<string>招财童子</string>
+		<key>Code</key>
+		<string>zctz</string>
+		<key>English</key>
+		<string>Zhao Cai Tong Zi</string>
+		<key>Group</key>
+		<string>Video Slots</string>
+		<key>Type</key>
+		<string>Slot Machines</string>
+		<key>tw</key>
+		<string>招財童子</string>
+	</dict>
+</array>
+</plist>
